@@ -1,0 +1,21 @@
+pycharm doesn't handle multiple clients to do it we use command prompt
+
+steps :
+
+1) Open cmd
+
+2) Goto path where server and clients exists in this case (tcp chat room)
+
+3) Run command python server.py
+
+4) To run multiple clients -
+
+      If you want three users to chat, open 3 command prompts from this folder then
+
+
+5) Run command python client.py on all clients (command prompts for different clients)
+
+6) Enter your nickname and start messaging with different clients.
+
+
+7) If you have any queries refer https://www.youtube.com/watch?v=FGdiSJakIS4 (NeuralNine Network Programming)
